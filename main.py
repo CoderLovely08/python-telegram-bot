@@ -1,15 +1,13 @@
 import requests
-import pyjokes
 
 #-----------------------------------------------
 #               Telegram Bot
 #-----------------------------------------------
 '''
-    1) install pyjoekes module using pip install pyjokes
-    2) install requests module using pip install requests
-    3) enter you bot token and bot chat id
-    4) call the function with your message as param
-    5) boom! your message is delivered
+    1) install requests module using pip install requests
+    2) enter you bot token and bot chat id
+    3) call the function with your message as param
+    4) boom! your message is delivered
 '''
 def telegram_bot_sendtext(bot_message):
 
@@ -21,5 +19,5 @@ def telegram_bot_sendtext(bot_message):
 
    return response.json()
 
-response = telegram_bot_sendtext(pyjokes.get_joke())
+response = telegram_bot_sendtext("Testing Telegram bot")
 print(response)
