@@ -3,9 +3,9 @@
 We are going to build a simple Telegram bot using python which you can use to notify you about anything.
 
 ## Required Steps
-1. [Create a telegram bot](#creat-a-bot)
-2. [Generate access token and save it somewhere](#generate-token)
-3. [Generate chat id](#generate-chat-id)
+1. [Create a telegram bot](#1-create-a-bot)
+2. [Generate access token and save it somewhere](#2-generate-token)
+3. [Generate chat id](#3-generate-chat-id)
 
 ## 1. Create a bot
 1. Visit [Telegram](https://web.telegram.org/) and search for [BotFather](https://telegram.me/BotFather)
@@ -24,7 +24,7 @@ We are going to build a simple Telegram bot using python which you can use to no
     ![Bot name](images/bot-done.png)
 
 
-## Generate Chat Id
+## 3. Generate Chat Id
 1. Now open your browser and paste the following link
 https://api.telegram.org/bot{token}/getUpdates?offset=-1
 and replace the token section with your newly generated token.
