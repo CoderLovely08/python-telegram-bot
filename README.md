@@ -1,6 +1,6 @@
 # Telegram Bot using python
 
-We are going to build a simple bot using python which you can use to notify you about anything.
+We are going to build a simple Telegram bot using python which you can use to notify you about anything.
 
 ## Required Steps
 1. [Create a telegram bot](#creat-a-bot)
