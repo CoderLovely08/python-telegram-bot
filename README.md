@@ -42,3 +42,5 @@ and upon pasting this hit enter and you will receive a JSON response in your bro
     ![Final Output](images/output.png)
 
 ### Congratulations you have succesfully created a automated Telegram bot using python, now do amazing stuff like sending hourly jokes or keep you updated with news headlines or literally anything. Explore what you can do with it and deploy it online.
+
+### [CLick here for stackoverflow Reference](https://stackoverflow.com/questions/29003305/sending-telegram-message-from-python)
