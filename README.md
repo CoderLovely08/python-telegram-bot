@@ -4,8 +4,8 @@ We are going to build a simple bot using python which you can use to notify you 
 
 ## Required Steps
 1. [Create a telegram bot](#creat-a-bot)
-2. Generate access token and save it somewhere
-3. Generate chat id
+2. [Generate access token and save it somewhere](#generate-token)
+3. [Generate chat id](#generate-chat-id)
 
 ## 1. Create a bot
 1. Visit [Telegram](https://web.telegram.org/) and search for [BotFather](https://telegram.me/BotFather)
